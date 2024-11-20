@@ -20,6 +20,7 @@ q: Reinicia el juego y la puntuación.
 
 (Actualmente este codigo solo permite un unico jugador y unico modo de dificultad, pero la forma del codigo permitiria la evolucion de este para agregar diferentes dificultades y un modo de dos jugaodres.)
 
+
 La librerias empleadas en el codigo son:
 
 Windows.h: Para manipular la posición del cursor en la consola.
