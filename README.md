@@ -1,5 +1,6 @@
 # PING PONG
-Juego de PING PONG elaborado en C++
+T00065013
+Juego de PING PONG elaborado con C++ en Code::Blocks.
 Consiste en un juego clasico de PING PONG donde el jugador que compite contra la maquina debe evitar que la pelota pase de su lado, esto moviendo una barra como representacion de una raqueta.
 
 
