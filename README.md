@@ -1,2 +1,2 @@
-# Juegoprogramacion
-Juego de la culebrita en c++
+# PING PONG
+Juego de PING PONG elaborado en C++
