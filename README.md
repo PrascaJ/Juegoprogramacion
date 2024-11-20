@@ -15,12 +15,12 @@ s: Bajar la barra.
 
 Inicio y pausa:
 
-e: Inicia o reanuda el movimiento de la pelota.
+e: Inicia  el movimiento de la pelota.
 
 q: Reinicia el juego y la puntuación.
 
 
-(Actualmente este codigo solo permite un unico jugador y unico modo de dificultad, pero la forma del codigo permitiria la evolucion de este para agregar diferentes dificultades y un modo de dos jugaodres.)
+(Actualmente este codigo solo permite un unico jugador y unico modo de dificultad, pero la forma del codigo permitiria a futuro la evolucion de este para agregar diferentes dificultades y un modo de dos jugaodressi alguna persona lo desease.)
 
 
 La librerias empleadas en el codigo son:
